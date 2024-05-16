@@ -33,7 +33,6 @@ spring.datasource.driver-class-name=org.postgresql.Driver
 hibernate.dialect=org.hibernate.dialect.HSQLDialect
 
 spring.jpa.hibernate.ddl-auto=update
-spring.jpa.format-sql = true
 ```
 3. Open the currency-converter project with your IDE of preference.
 4. Compile and run the project.
